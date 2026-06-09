@@ -1,4 +1,3 @@
-# Real-Time-Chat-Application
 # 💬 Real-Time Chat Application
 
 A full-stack real-time chat application built using the MERN Stack and Socket.IO. The application enables users to communicate instantly with real-time message delivery, user authentication, online user status tracking, and media sharing capabilities.
